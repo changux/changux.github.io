@@ -2,4 +2,4 @@
 layout: default
 ---
 
-This is the **slcolombia.org** and **changux.co**
+This is **slcolombia.org** and **changux.co**
